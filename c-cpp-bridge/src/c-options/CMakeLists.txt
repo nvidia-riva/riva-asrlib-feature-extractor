@@ -1,0 +1,9 @@
+add_library(cfe-c-options
+    OBJECT
+    c-fbank-opts.cpp
+    c-frame-extraction-opts.cpp
+    c-mel-banks-opts.cpp
+    c-mfcc-opts.cpp
+    c-online-cmvn-opts.cpp
+    c-online-batched-feature-info.cpp
+)
