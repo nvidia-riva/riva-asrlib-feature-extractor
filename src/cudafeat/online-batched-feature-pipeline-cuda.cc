@@ -17,7 +17,7 @@
 
 #include <stdexcept>
 
-#include <nvToolsExt.h>
+#include <nvtx3/nvToolsExt.h>
 #include <cuda_runtime_api.h>
 
 namespace riva {

@@ -1,7 +1,7 @@
 // SPDX-FileCopyrightText: Copyright (c) 2020 NVIDIA CORPORATION & AFFILIATES.
 // SPDX-License-Identifier: Apache-2.0
 
-#include <nvToolsExt.h>
+#include <nvtx3/nvToolsExt.h>
 #include <cub/cub.cuh>
 
 #include "cudafeat/feature-online-batched-spectral-cuda-kernels.h"
