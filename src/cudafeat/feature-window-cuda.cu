@@ -1,7 +1,7 @@
 // SPDX-FileCopyrightText: Copyright (c) 2019 NVIDIA CORPORATION & AFFILIATES.
 // SPDX-License-Identifier: Apache-2.0
 
-#include <nvToolsExt.h>
+#include <nvtx3/nvToolsExt.h>
 #include "cudafeat/feature-window-cuda.h"
 
 namespace riva {
